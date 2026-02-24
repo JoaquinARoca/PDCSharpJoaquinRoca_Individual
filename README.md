@@ -1,5 +1,5 @@
 # Guía para el proyecto de drones   
- 
+
 ## 1. Introducción   
 
 El proceso que se describe en esta guía tiene por objetivo el desarrollo de una aplicación de control de un dron (o varios) que pueda demostrarse en el DroneLab del Campus del Baix Llobregat. Esta aplicación se desarrollará en equipos de 3 o 4 personas.
@@ -20,12 +20,6 @@ Acabada la versión 2 cada equipo deberá decidir las funcionalidades que tendr�
  
 La versión 4 será la versión final con todas las funcionalidades previstas. Además de demostrar el correcto funcionamiento en el DroneLab, cada equipo deberá entregar el resultado en forma de repositorio en GitHub, que incluya los códigos desarrollados, explicaciones detalladas sobre cómo instalar y poner en marcha la aplicación y vídeos que muestren el funcionamiento y describan cómo está organizado el código desarrollado.    
 
-## 2. Criterios de evaluación    
-
- - 50% Proyecto
- - 20% Examen 1
- - 20% Examen 2
- - 10% Actitud y Participación
 
 ## 3. Recursos    
 ### 3.1 Git y GitHub   
