@@ -81,8 +81,6 @@ namespace Formulario
             button17.Tag = "SouthEast";
             button17.Click += navButton_Click;
             button17.Font = letraGrande;
-
-            label14.Text = "En \n Movimiento";
         }
 
         private void but_connect_Click(object sender, EventArgs e)
@@ -149,23 +147,26 @@ namespace Formulario
         {
 
             dron.EnviarDatosTelemetria(ProcesarTelemetria);
-            
+            dron.EnviarDatosNivelBateria(ProcesarEstadoBateria);
         }
 
         private void detenerTelemetriaBtn_Click(object sender, EventArgs e)
         {
             dron.DetenerDatosTelemetria();
+            dron.DetenerDatosNivelBateria();
         }
-        
-        //private void ProcesarEstadoBateria(byte id, List<(string nombre, float valor)> telemetria) {
-        //    foreach (var t in telemetria)
-        //    {
-        //        if (t.nombre == "Batery") {
-        //            bateriaLbl.Text = t.valor.ToString();
-        //            break;
-        //        }
-        //    }
-        //}
+
+        private void ProcesarEstadoBateria(byte id, List<(string nombre, float valor)> telemetria)
+        {
+            foreach (var t in telemetria)
+            {
+                if (t.nombre == "remaining")
+                {
+                    batteryLbl.Text = t.valor.ToString() + "%";
+                    break;
+                }
+            }
+        }
         private void ProcesarTelemetria(byte id, List<(string nombre, float valor)> telemetria)
         {
             // Aqui vendre cada vez que llegue un paquete de telemetría
@@ -237,14 +238,5 @@ namespace Formulario
             longmovBox.Text = "";
             alturamovBox.Text = "";
         }
-
-        //private void obtenerBatteriaBtn_Click(object sender, EventArgs e)
-        //{
-        //    List<float> resultado = new List<float>();
-        //    List<string> parametros = new List<string>();
-        //    parametros.Add("Bat");
-        //    resultado = dron.LeerParametros(parametros);
-        //    batteryLbl.Text = resultado[0].ToString();
-        //}
     }
 }

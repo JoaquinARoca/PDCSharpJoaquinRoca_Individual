@@ -23,3 +23,15 @@ C:\Users\jrock\Desktop\PD\ProyectoDronesG-3_CSharp\DashboardLocalCsharp\Formular
 C:\Users\jrock\Desktop\PD\ProyectoDronesG-3_CSharp\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.csproj.Up2Date
 C:\Users\jrock\Desktop\PD\ProyectoDronesG-3_CSharp\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.exe
 C:\Users\jrock\Desktop\PD\ProyectoDronesG-3_CSharp\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.pdb
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\bin\Debug\Formulario.exe
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\bin\Debug\Formulario.pdb
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\bin\Debug\csDronLink.dll
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.csproj.Up2Date
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.exe
+C:\Users\jrock\Desktop\PD\Individuales\PDCSharpJoaquinRoca_Individual\DashboardLocalCsharp\Formulario\obj\Debug\Formulario.pdb
